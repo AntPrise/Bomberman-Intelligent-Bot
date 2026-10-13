@@ -1,0 +1,13 @@
+{
+  "name": "bomberman-intelligent-bot",
+  "version": "5.2.0",
+  "private": true,
+  "description": "Standalone userscript with archived canvas and bot research materials",
+  "scripts": {
+    "test": "node tests/validate.mjs",
+    "check": "node tests/validate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
